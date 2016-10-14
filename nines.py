@@ -30,4 +30,4 @@ def run_tests():
 def print_nines():
 
     for i in range(1, 8):
-        print(i//9, "x 9 =", i)
+        print(i, "x 9 =", i*9)
